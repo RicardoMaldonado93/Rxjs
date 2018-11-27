@@ -37,6 +37,8 @@ export class AppComponent {
         
     };
 
+    //rxmables.com
+    
     this.observable$.pipe(
       //map( nro=> <number>nro * 2 ),
       //ilter( nro=> <number>nro >= 4),
